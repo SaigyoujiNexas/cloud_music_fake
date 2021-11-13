@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">网易云音乐(伪)</string>
+    <string name="local_music">本地音乐</string>
+    <string name="recently_played">最近播放</string>
+    <string name="download_manager">下载管理</string>
+    <string name="my_radio">我的电台</string>
+    <string name="my_collections">我的收藏</string>
+    <string name="crt_music_list">创建的歌单</string>
+    <string name="clt_music_list">收藏的歌单</string>
+    <string name="default_zero">(0)</string>
+    <string name="user_name">silent碎月</string>
+    <string name="user_level">Lv.8</string>
+    <string name="my_message">我的消息</string>
+    <string name="vip_center">会员中心</string>
+    <string name="my_friends">我的好友</string>
+    <string name="change_skin">个性换肤</string>
+    <string name="listening">听歌识曲</string>
+    <string name="time_stop">定时停止播放</string>
+    <string name="night">夜间模式</string>
+    <string name="setting">设置</string>
+</resources>

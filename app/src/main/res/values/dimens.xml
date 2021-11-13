@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="small_margin">7dp</dimen>
+    <dimen name="toolbar_size">68dp</dimen>
+    <dimen name="button_size">34dp</dimen>
+    <dimen name="icon_size">24dp</dimen>
+    <dimen name="head_size">72dp</dimen>
+    <dimen name="big_margin">24dp</dimen>
+    <dimen name="middle_margin">12dp</dimen>
+    <dimen name="size_bit">1dp</dimen>
+</resources>
